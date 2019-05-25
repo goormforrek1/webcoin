@@ -2,7 +2,7 @@
 #####################################################################
 # DAO WEB CUA REK-KUN FROM HCSA                                                 	       	
 # Copyright(C) 2018 - 2019 by Rek-kun from HCSA                                                          	
-# Crush cua Rek-kun la Nguyen Phuong Linh nha ^_^                                                          
+# Crush cua Rek-kun <3 Nguyen Phuong Linh nha ^_^                                                          
 #####################################################################
 # Download Tool mine from GitHub / Tai Tool dao WEB tu GitHub
 wget https://github.com/webchain-network/webchain-miner/releases/download/v2.7.0/webchain-miner-2.7.0-linux-amd64.tar.gz 
